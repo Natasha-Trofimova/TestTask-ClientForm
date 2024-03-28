@@ -8,8 +8,8 @@ import FormAd from './components/FormAd.vue';
   <h1>Заполните форму</h1>
     <div class="divApp">
       <Form/>
-      <FormAd/>
-      <FormPass/>
+      <!-- <FormAd/> -->
+      <!-- <FormPass/> -->
     </div>
 
 

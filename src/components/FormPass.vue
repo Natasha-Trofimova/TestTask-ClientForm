@@ -1,7 +1,10 @@
 <script setup>
 
 </script>
-
+<!-- 
+  <input v-model="message" placeholder="отредактируй меня">
+<p>Введённое сообщение: {{ message }}</p>
+ -->
 <template>
   <div
   class="DivName">
